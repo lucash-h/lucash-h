@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucash-h
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning engineering at the University of Victoria.
+- 🌱 I’m currently learning Software Engineering at the University of Victoria.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucashh@uvic.ca
 
