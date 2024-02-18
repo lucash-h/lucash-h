@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucash-h
-- 👀 I’m interested in Machine Learning applications and if I had to chose one I'd go with embedded ML.
+- 👀 I’m interested in exploring machine learning, but most software developping areas interest me.
 - 🌱 I’m currently learning Software Engineering at the University of Victoria.
 - 📫 How to reach me lucashh@uvic.ca
 
