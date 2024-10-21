@@ -8,6 +8,7 @@ Hey my name is Lucas and
 - I can be reached at lhatelyhoneyman@gmail.com and you can check out my website with my other socials at lhatelyhoneyman.pythonanywhere.com
 
 Thanks for looking!
+<br>
 Lucas Hately-Honeyman
 
 <!---
