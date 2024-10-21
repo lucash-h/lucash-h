@@ -1,8 +1,5 @@
-- 👀 I’m interested in exploring machine learning, but most software developping areas interest me.
-- 🌱 I’m currently learning Software Engineering at the University of Victoria.
-- 📫 How to reach me lucashh@uvic.ca
 Hey my name is Lucas and
-- I'm taking software engineering at the University of Victoria
+- I'm taking software engineering at the University of Victoria and I love whitewater kayaking and spending time outside
 - I've done projects with arduino boards and neural networks in addition to my class work
 - Currently I'm interested and studying up on creating actual software products for users
 - I am also doing fun small projects to learn new things and learn a variety of different tools, which may be my favorite thing about SEng
