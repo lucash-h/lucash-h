@@ -7,8 +7,8 @@ Hey my name is Lucas and
 - I am looking for a coop so if any of my projects look like they could be interesting send me a message!
 - I can be reached at lhatelyhoneyman@gmail.com and you can check out my website with my other socials at lhatelyhoneyman.pythonanywhere.com
 
-- Thanks for looking!
-- Lucas Hately-Honeyman
+Thanks for looking!
+Lucas Hately-Honeyman
 
 <!---
 lucash-h/lucash-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
